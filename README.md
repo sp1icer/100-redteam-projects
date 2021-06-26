@@ -5,6 +5,17 @@
                                                                        
 # FORKED: 100  Red Team Projects for Pentesters and Network Managers
 
+---------------------------------------------------------------------------------------------
+
+sp1icer's note: i'm going to be doing a few things to this repo - i'll keep a changelog up here. i may add some challenges, remove some, etc. as i go through these to have some fun. also, i'll be writing them up on my blog so stay tuned for that!
+
+CHANGES:
+
+
+---------------------------------------------------------------------------------------------
+
+ORIGINAL GITHUB TEXT:
+
 Red Teaming is one of the most attractive fields in offensive security or ethical hacking. 
 Every day professionals and students are learning, creating and exploiting all types of 
 systems. The internet is not only the most common means through which people interact 
